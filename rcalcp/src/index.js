@@ -1,11 +1,11 @@
 import React from 'react'
 import ReactDOM from 'react-dom/client'
+import App from './App'
 
 const WhatWeSee = () => {
   return (
     <p>
-      hello world
-      <h1>what</h1>
+     <App/>
     </p>
   )
 }
